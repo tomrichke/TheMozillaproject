@@ -1,0 +1,57 @@
+html {
+    background-color: cadetblue;
+    font-size : 16px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: gray
+    width: auto;
+    margin: 0 auto
+    padding: 0px 20px 20px 20px;
+    border: 6px black;
+    text-align: center;
+}
+
+
+
+h1 {
+    margin: 0;
+    background-color: teal;
+    padding: 5px 5px 5px 5px;
+    color: white ;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 5px 5px 3px black;
+}
+
+p,li {
+    color:whitesmoke;
+    font-size: 16px;
+    line-height: auto ;
+    letter-spacing: normal;
+}
+
+hr {
+color:teal;
+}
+
+a {
+    color: whitesmoke;
+}
+
+img[src] {
+
+    width:200px;
+    
+}
+
+h4 {
+    background-color: teal;
+    color: whitesmoke;
+    text-decoration: cadetblue;
+    text-shadow: 0px 1px 2px black; 
+    padding: 3px 0px 3px 0px 
+
+}
